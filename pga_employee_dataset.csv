@@ -1,0 +1,1001 @@
+﻿id,employee,hire_date,department,salary,bonus
+892313,Mada Behagg,08/15/2021,Business Development,"$89,963.23 ","$98,959.55"
+892314,Abramo McNee,01/04/2021,Support,"$143,728.32 ",$0.00
+892315,Margy Zelley,04/13/2021,Marketing,"$141,650.16 ",$0.00
+892316,Leonidas MacKimm,02/20/2021,Human Resources,"$108,944.45 ",$0.00
+892317,Martha Jessep,10/06/2020,Accounting,"$60,484.12 ","$66,532.53"
+892318,Chadwick Smithe,01/16/2021,Product Management,"$60,086.98 ","$66,095.68"
+892319,Hinze Beebee,08/20/2021,Legal,"$69,519.00 ","$76,470.90"
+892320,Bentlee Alyonov,04/01/2021,Training,"$55,183.15 ","$60,701.47"
+892321,Guenna Stockney,06/19/2021,Training,"$97,085.84 ","$106,794.42"
+892322,Adan Adolf,10/02/2020,Support,"$100,241.14 ",$0.00
+892323,Tarrah Armitage,09/02/2021,Training,"$142,248.61 ",$0.00
+892324,Eliot Asken,10/25/2020,Sales,"$85,452.48 ","$93,997.73"
+892325,Elaina Tomasutti,09/20/2020,Support,"$72,383.85 ","$79,622.24"
+892326,Cynthie Joselevitz,04/05/2021,Research and Development,"$65,835.91 ","$72,419.50"
+892327,Say Bril,05/02/2021,Accounting,"$89,250.93 ","$98,176.02"
+892328,Iggie Chesswas,07/01/2021,Engineering,"$138,058.29 ",$0.00
+892329,Camile Scarlon,06/10/2021,Marketing,"$59,749.42 ","$65,724.36"
+892330,Andrea Oldcroft,08/21/2021,Accounting,"$66,859.24 ","$73,545.16"
+892331,Herc Dregan,12/26/2020,Accounting,"$146,116.81 ",$0.00
+892332,Lyndell Headan,08/22/2021,Support,"$117,651.67 ",$0.00
+892333,Britni Danbye,09/14/2020,Services,"$112,612.83 ",$0.00
+892334,Micky Beacon,01/17/2021,Legal,"$144,648.95 ",$0.00
+892335,Gothart Oman,01/07/2021,Engineering,"$129,510.90 ",$0.00
+892336,Netta Attack,05/21/2021,Human Resources,"$57,989.92 ","$63,788.91"
+892337,Lawrence Squeers,12/26/2020,Legal,"$83,419.26 ","$91,761.19"
+892338,Steward Body,12/15/2020,Human Resources,"$136,285.04 ",$0.00
+892339,Catha Fifoot,12/27/2020,Services,"$104,053.53 ",$0.00
+892340,Iain Troutbeck,08/11/2021,Engineering,"$85,274.85 ","$93,802.34"
+892341,Nico Loosely,03/12/2021,Product Management,"$95,518.18 ","$105,070.00"
+892342,Myrah Woodthorpe,07/27/2021,Human Resources,"$87,783.04 ","$96,561.34"
+892343,Philippine Menauteau,03/12/2021,Engineering,"$128,501.25 ",$0.00
+892344,Robena Goulborne,10/31/2020,Training,"$141,828.21 ",$0.00
+892345,Claudie Errichiello,05/28/2021,Support,"$105,906.04 ",$0.00
+892346,Carroll Alliberton,01/01/2021,Human Resources,"$110,976.23 ",$0.00
+892347,Nicola Guppie,01/22/2021,Marketing,"$104,359.45 ",$0.00
+892348,Phebe De Carolis,01/18/2021,Training,"$68,124.03 ","$74,936.43"
+892349,Enrika McIllrick,02/12/2021,Research and Development,"$133,284.70 ",$0.00
+892350,Lani Spraggs,10/26/2020,Research and Development,"$88,094.27 ","$96,903.70"
+892351,Camile Streeten,04/12/2021,Marketing,"$118,100.45 ",$0.00
+892352,Tatum Blackleech,08/13/2021,Training,"$96,592.50 ","$106,251.75"
+892353,Pearline Anderer,12/18/2020,Research and Development,"$135,635.48 ",$0.00
+892354,Ertha Foot,01/05/2021,Legal,"$142,970.55 ",$0.00
+892355,Culver Lisciardelli,01/21/2021,Product Management,"$77,610.61 ","$85,371.67"
+892356,Darelle More,11/15/2020,Accounting,"$71,109.32 ","$78,220.25"
+892357,Heddi Sikorski,12/02/2020,Services,"$72,601.67 ","$79,861.84"
+892358,Sollie Cullinan,09/12/2020,Accounting,"$60,887.96 ","$66,976.76"
+892359,Town Mc Harg,12/20/2020,Legal,"$90,945.13 ","$100,039.64"
+892360,Dell Whear,01/29/2021,Support,"$140,069.72 ",$0.00
+892361,Dukie Lamberts,12/20/2020,Legal,"$147,610.05 ",$0.00
+892362,Corenda Wagnerin,03/14/2021,Accounting,"$112,024.05 ",$0.00
+892363,Annalee Siehard,10/29/2020,Support,"$106,153.59 ",$0.00
+892364,Elfie Palfreeman,11/22/2020,Human Resources,"$136,759.94 ",$0.00
+892365,Kendricks Goldstraw,01/12/2021,Services,"$110,832.74 ",$0.00
+892366,Kaine Silly,03/13/2021,Sales,"$126,238.73 ",$0.00
+892367,Ricardo Hannigane,05/03/2021,Sales,"$121,137.27 ",$0.00
+892368,Saundra Lilly,03/14/2021,Training,"$95,427.76 ","$104,970.54"
+892369,Tuesday Hannen,05/03/2021,Accounting,"$93,504.45 ","$102,854.90"
+892370,Delila Gromley,01/14/2021,Business Development,"$132,560.59 ",$0.00
+892371,Goldarina Juzek,10/03/2020,Marketing,"$127,491.90 ",$0.00
+892372,Reynolds Sewter,09/26/2020,Research and Development,"$126,972.73 ",$0.00
+892373,Geri Romera,01/07/2021,Legal,"$118,610.51 ",$0.00
+892374,Rustie Ghiotto,10/13/2020,Support,"$69,305.38 ","$76,235.92"
+892375,Maureen Bonhomme,04/30/2021,Marketing,"$140,802.01 ",$0.00
+892376,Jason Khidr,08/01/2021,Marketing,"$140,751.60 ",$0.00
+892377,Johnna Woodward,12/01/2020,Support,"$118,191.97 ",$0.00
+892378,Ransell Emmins,04/04/2021,Support,"$143,934.36 ",$0.00
+892379,Thain Schrei,08/08/2021,Sales,"$146,643.08 ",$0.00
+892380,Lawry Kinnar,10/28/2020,Business Development,"$81,526.28 ","$89,678.91"
+892381,Bettine Kiernan,01/28/2021,Marketing,"$59,301.14 ","$65,231.25"
+892382,Isa Ainsworth,12/05/2020,Human Resources,"$75,671.85 ","$83,239.04"
+892383,Barret Dumphry,11/22/2020,Marketing,"$87,750.59 ","$96,525.65"
+892384,Claresta Howton,07/20/2021,Services,"$75,856.09 ","$83,441.70"
+892385,Herby Vallentin,03/07/2021,Sales,"$139,754.43 ",$0.00
+892386,Beatriz Alyukin,07/07/2021,Services,"$75,800.52 ","$83,380.57"
+892387,Dean Cohane,08/12/2021,Human Resources,"$115,451.35 ",$0.00
+892388,Prinz Dundendale,03/30/2021,Services,"$147,978.46 ",$0.00
+892389,Wright Ickovicz,10/09/2020,Business Development,"$81,121.77 ","$89,233.95"
+892390,Tommie Hubbert,01/02/2021,Business Development,"$143,710.79 ",$0.00
+892391,Correy O'Fairy,09/03/2021,Business Development,"$99,065.32 ","$108,971.85"
+892392,Nanon Eads,01/07/2021,Research and Development,"$88,164.81 ","$96,981.29"
+892393,Lanny Kinforth,08/20/2021,Engineering,"$139,429.05 ",$0.00
+892394,Dulcy Guidini,09/09/2020,Support,"$84,845.95 ","$93,330.55"
+892395,Beth McCaughran,12/24/2020,Research and Development,"$148,625.21 ",$0.00
+892396,Sacha Syddie,11/16/2020,Engineering,"$93,150.42 ","$102,465.46"
+892397,Alix Gaisford,03/14/2021,Marketing,"$89,769.45 ","$98,746.40"
+892398,Pryce Killcross,08/21/2021,Sales,"$80,348.37 ","$88,383.21"
+892399,Corbin Fehely,05/28/2021,Business Development,"$73,367.77 ","$80,704.55"
+892400,Rachele Dallas,08/02/2021,Business Development,"$81,565.33 ","$89,721.86"
+892401,Shandie Cowlard,08/07/2021,Services,"$118,036.00 ",$0.00
+892402,Pace Rossborough,08/10/2021,Training,"$62,434.11 ","$68,677.52"
+892403,Maighdiln Saulter,11/01/2020,Support,"$70,833.11 ","$77,916.42"
+892404,Garrot Smalls,06/01/2021,Sales,"$146,649.23 ",$0.00
+892405,Garrick Golton,07/24/2021,Product Management,"$96,843.10 ","$106,527.41"
+892406,Bab Beament,04/06/2021,Human Resources,"$89,785.26 ","$98,763.79"
+892407,Rycca Gomby,07/22/2021,Product Management,"$83,479.89 ","$91,827.88"
+892408,Clive Gandar,04/15/2021,Business Development,"$135,563.04 ",$0.00
+892409,Christal Caps,08/20/2021,Engineering,"$134,326.29 ",$0.00
+892410,Doris Chatelet,01/08/2021,Support,"$74,462.05 ","$81,908.26"
+892411,Verna Lippatt,11/04/2020,Research and Development,"$123,001.62 ",$0.00
+892412,Alikee Esche,04/08/2021,Services,"$124,888.19 ",$0.00
+892413,Carrissa Hughill,12/27/2020,Support,"$134,761.23 ",$0.00
+892414,Humfrid Skillicorn,11/11/2020,Accounting,"$138,156.07 ",$0.00
+892415,Mallorie Vynarde,09/28/2020,Training,"$60,075.59 ","$66,083.15"
+892416,Neville Willshire,01/16/2021,Sales,"$134,731.36 ",$0.00
+892417,Tedi Millions,06/13/2021,Legal,"$103,266.56 ",$0.00
+892418,Duky Boag,06/21/2021,Training,"$61,101.99 ","$67,212.19"
+892419,Stace Dullard,02/28/2021,Sales,"$122,629.45 ",$0.00
+892420,Lorrie Carpenter,11/20/2020,Engineering,"$147,075.60 ",$0.00
+892421,Gizela Van der Son,01/27/2021,Support,"$89,391.93 ","$98,331.12"
+892422,Erena Naish,10/16/2020,Marketing,"$139,666.72 ",$0.00
+892423,Hurlee Baynam,06/07/2021,Product Management,"$84,370.32 ","$92,807.35"
+892424,Meggie Farrar,10/25/2020,Legal,"$144,626.05 ",$0.00
+892425,Venita Lorrimer,02/07/2021,Legal,"$76,431.64 ","$84,074.80"
+892426,Elisabetta Quelch,02/11/2021,Business Development,"$137,220.04 ",$0.00
+892427,Nikolaus Grigoli,08/05/2021,Legal,"$107,143.70 ",$0.00
+892428,Amil Rymer,01/14/2021,Engineering,"$86,426.72 ","$95,069.39"
+892429,Ardella Swafford,07/05/2021,Human Resources,"$73,282.97 ","$80,611.27"
+892430,Juan Kantor,02/26/2021,Accounting,"$133,906.30 ",$0.00
+892431,Kit Gethyn,10/21/2020,Support,"$87,746.02 ","$96,520.62"
+892432,Felipe Keirl,02/05/2021,Product Management,"$149,112.29 ",$0.00
+892433,Jeanne Tutsell,05/30/2021,Training,"$107,167.63 ",$0.00
+892434,Perry Casemore,12/16/2020,Training,"$65,491.88 ","$72,041.07"
+892435,Gayel Schoolcroft,04/20/2021,Product Management,"$133,040.53 ",$0.00
+892436,Isacco Blenkensop,03/07/2021,Sales,"$87,213.49 ","$95,934.84"
+892437,Brodie Laurenzi,07/27/2021,Product Management,"$71,331.81 ","$78,464.99"
+892438,Chrysler Priestland,04/06/2021,Services,"$108,941.00 ",$0.00
+892439,Hollyanne Collen,03/18/2021,Legal,"$138,980.12 ",$0.00
+892440,Rodd Di Ruggiero,01/28/2021,Sales,"$76,699.41 ","$84,369.35"
+892441,Essa Lambregts,12/27/2020,Product Management,"$104,049.10 ",$0.00
+892442,Chris Carnock,06/10/2021,Sales,"$84,627.53 ","$93,090.28"
+892443,Alice Plak,08/26/2021,Sales,"$109,600.14 ",$0.00
+892444,Cordelia De Miranda,09/18/2020,Human Resources,"$108,621.01 ",$0.00
+892445,Berthe Duchan,12/31/2020,Services,"$79,064.56 ","$86,971.02"
+892446,Gerik Cobleigh,05/07/2021,Support,"$87,635.04 ","$96,398.54"
+892447,Ermentrude Springell,08/31/2021,Human Resources,"$136,792.70 ",$0.00
+892448,Cobby Bagenal,12/18/2020,Engineering,"$70,969.35 ","$78,066.29"
+892449,Padriac Skim,10/25/2020,Research and Development,"$143,450.08 ",$0.00
+892450,Lara Strathearn,09/18/2020,Research and Development,"$97,519.79 ","$107,271.77"
+892451,Benn Swannie,01/15/2021,Engineering,"$120,668.74 ",$0.00
+892452,Bret Djokovic,11/19/2020,Engineering,"$112,620.28 ",$0.00
+892453,Davy O'Hallihane,12/14/2020,Sales,"$103,334.40 ",$0.00
+892454,Noelle Elecum,05/05/2021,Legal,"$70,918.40 ","$78,010.24"
+892455,Zed Ginni,09/04/2021,Business Development,"$129,638.85 ",$0.00
+892456,Cilka Janusik,08/28/2021,Sales,"$115,599.41 ",$0.00
+892457,Merrick Pheazey,09/11/2020,Support,"$62,680.66 ","$68,948.73"
+892458,Rora Leschelle,06/29/2021,Marketing,"$106,872.13 ",$0.00
+892459,Eldredge Rewbottom,09/01/2021,Product Management,"$116,806.90 ",$0.00
+892460,Kirk Caspell,09/26/2020,Marketing,"$120,657.27 ",$0.00
+892461,Thaddeus Chillingworth,05/18/2021,Human Resources,"$61,956.83 ","$68,152.51"
+892462,Inga Monck,11/21/2020,Human Resources,"$143,480.38 ",$0.00
+892463,Stan Prenty,07/04/2021,Engineering,"$127,293.66 ",$0.00
+892464,Anna Fulep,04/15/2021,Product Management,"$96,317.55 ","$105,949.31"
+892465,Charmine Dongate,02/27/2021,Human Resources,"$92,397.33 ","$101,637.06"
+892466,Roseanne Shillabear,05/26/2021,Research and Development,"$125,394.28 ",$0.00
+892467,Loreen MacAlpine,06/01/2021,Engineering,"$128,998.41 ",$0.00
+892468,Nada Yare,05/31/2021,Marketing,"$57,604.66 ","$63,365.13"
+892469,Jessie Jambrozek,10/05/2020,Legal,"$112,072.29 ",$0.00
+892470,Uri Watmore,08/12/2021,Product Management,"$148,006.93 ",$0.00
+892471,Vallie Abrehart,06/08/2021,Sales,"$79,809.66 ","$87,790.63"
+892472,Archibald Adger,01/13/2021,Sales,"$100,019.21 ",$0.00
+892473,Ermina Caurah,03/07/2021,Services,"$99,890.68 ","$109,879.75"
+892474,Sharyl Oxteby,04/09/2021,Legal,"$60,227.51 ","$66,250.26"
+892475,Tamiko Mavin,06/04/2021,Business Development,"$103,542.92 ",$0.00
+892476,Carmela Donnell,10/26/2020,Research and Development,"$87,237.48 ","$95,961.23"
+892477,Karim Feria,06/08/2021,Accounting,"$140,019.29 ",$0.00
+892478,Coleman Churm,12/05/2020,Product Management,"$137,636.24 ",$0.00
+892479,Noelani Giggie,04/09/2021,Sales,"$140,982.87 ",$0.00
+892480,Lurline Ladbrook,09/01/2021,Marketing,"$118,962.64 ",$0.00
+892481,Maryellen Tregunnah,09/06/2021,Human Resources,"$149,914.72 ",$0.00
+892482,Chris Deelay,02/17/2021,Legal,"$80,896.74 ","$88,986.41"
+892483,Issy Ginity,01/17/2021,Engineering,"$132,540.68 ",$0.00
+892484,Tildi Gussin,11/28/2020,Services,"$115,093.37 ",$0.00
+892485,Casey Tritten,02/05/2021,Research and Development,"$69,467.02 ","$76,413.72"
+892486,Berk Smythe,12/10/2020,Human Resources,"$109,259.20 ",$0.00
+892487,Guilbert Dowle,12/24/2020,Training,"$116,326.26 ",$0.00
+892488,Lay Delea,06/06/2021,Product Management,"$105,474.87 ",$0.00
+892489,Kikelia Basant,02/01/2021,Engineering,"$149,094.72 ",$0.00
+892490,Geoffry O'Corrin,03/21/2021,Research and Development,"$114,154.93 ",$0.00
+892491,Herve Woolaston,07/15/2021,Product Management,"$74,667.46 ","$82,134.21"
+892492,Arie Dowdall,07/08/2021,Engineering,"$89,383.92 ","$98,322.31"
+892493,Zed Harkness,05/02/2021,Sales,"$123,598.46 ",$0.00
+892494,Blisse Pestricke,11/14/2020,Training,"$142,076.88 ",$0.00
+892495,Josefa Airdrie,11/16/2020,Research and Development,"$133,956.03 ",$0.00
+892496,Ranee Struss,03/14/2021,Training,"$141,301.30 ",$0.00
+892497,Elroy Baff,05/13/2021,Sales,"$86,453.47 ","$95,098.82"
+892498,Edgar Monk,09/19/2020,Training,"$76,779.72 ","$84,457.69"
+892499,Bobby Josofovitz,08/16/2021,Sales,"$129,448.46 ",$0.00
+892500,Nickola Antoniou,12/17/2020,Sales,"$119,063.60 ",$0.00
+892501,Jessee Spilisy,04/27/2021,Research and Development,"$60,877.60 ","$66,965.36"
+892502,Fred Daens,03/04/2021,Sales,"$139,953.41 ",$0.00
+892503,Augustine Sterman,12/11/2020,Marketing,"$76,504.18 ","$84,154.60"
+892504,Kary Andres,12/06/2020,Accounting,"$113,841.48 ",$0.00
+892505,Jasen Pitcock,09/24/2020,Human Resources,"$79,740.63 ","$87,714.69"
+892506,Lockwood Magson,03/06/2021,Services,"$103,723.49 ",$0.00
+892507,Frazier Dunsmuir,04/29/2021,Business Development,"$69,271.36 ","$76,198.50"
+892508,Kurtis Meins,07/17/2021,Training,"$85,355.42 ","$93,890.96"
+892509,Lee Blackborn,08/10/2021,Research and Development,"$71,243.97 ","$78,368.37"
+892510,Karlis Rao,02/22/2021,Training,"$76,507.37 ","$84,158.11"
+892511,Dolly Kubiczek,07/07/2021,Sales,"$125,788.01 ",$0.00
+892512,Vally Frodsham,04/30/2021,Research and Development,"$70,374.42 ","$77,411.86"
+892513,Brett Flatte,12/12/2020,Business Development,"$57,326.94 ","$63,059.63"
+892514,Albie Mara,03/21/2021,Human Resources,"$109,508.19 ",$0.00
+892515,Hadrian Greaves,01/17/2021,Engineering,"$61,019.68 ","$67,121.65"
+892516,Kennett Common,10/31/2020,Product Management,"$145,442.68 ",$0.00
+892517,Klement Demaid,05/07/2021,Business Development,"$55,373.79 ","$60,911.17"
+892518,Hilde Halbert,01/11/2021,Product Management,"$124,196.75 ",$0.00
+892519,Ricca Hundal,12/16/2020,Accounting,"$136,212.91 ",$0.00
+892520,Costa Coda,06/15/2021,Training,"$87,756.57 ","$96,532.23"
+892521,Camala Gibbeson,08/21/2021,Support,"$149,114.40 ",$0.00
+892522,Far Rawstron,08/02/2021,Accounting,"$88,901.66 ","$97,791.83"
+892523,Marmaduke Alster,10/06/2020,Accounting,"$91,768.13 ","$100,944.94"
+892524,Falkner Claughton,10/02/2020,Engineering,"$126,144.34 ",$0.00
+892525,Edythe Beechcraft,03/08/2021,Human Resources,"$143,516.75 ",$0.00
+892526,Eadie Vallentin,04/24/2021,Human Resources,"$117,730.91 ",$0.00
+892527,Tan Bever,04/16/2021,Product Management,"$66,713.40 ","$73,384.74"
+892528,Daria Dankersley,05/11/2021,Engineering,"$64,663.66 ","$71,130.03"
+892529,Nahum Clackers,07/04/2021,Legal,"$131,402.85 ",$0.00
+892530,Fairlie Chaunce,03/12/2021,Business Development,"$106,317.14 ",$0.00
+892531,Thorvald Giffen,06/05/2021,Training,"$91,499.80 ","$100,649.78"
+892532,Staford Turfes,06/12/2021,Product Management,"$144,245.74 ",$0.00
+892533,Bronson Briamo,05/28/2021,Human Resources,"$65,760.59 ","$72,336.65"
+892534,Constantia Elion,05/31/2021,Training,"$107,541.94 ",$0.00
+892535,Giordano Weems,09/01/2021,Engineering,"$60,933.38 ","$67,026.72"
+892536,Nickie Whitwell,06/19/2021,Training,"$61,063.75 ","$67,170.13"
+892537,Connie Tallis,07/09/2021,Marketing,"$67,765.80 ","$74,542.38"
+892538,Chanda O'Beirne,05/13/2021,Legal,"$67,646.83 ","$74,411.51"
+892539,Elfie Duggary,04/24/2021,Services,"$138,306.45 ",$0.00
+892540,Jacintha Spedroni,05/19/2021,Accounting,"$94,891.30 ","$104,380.43"
+892541,Casey Defrain,03/25/2021,Business Development,"$84,139.02 ","$92,552.92"
+892542,Ingrim Laxon,09/05/2021,Business Development,"$93,244.26 ","$102,568.69"
+892543,Lemmy Jollye,02/14/2021,Sales,"$96,038.93 ","$105,642.82"
+892544,Berri Landsbury,06/03/2021,Support,"$130,130.60 ",$0.00
+892545,Spence Wass,03/04/2021,Marketing,"$69,900.69 ","$76,890.76"
+892546,Bayard Drinkeld,06/11/2021,Engineering,"$146,809.29 ",$0.00
+892547,Cleveland Gerran,02/21/2021,Legal,"$56,300.19 ","$61,930.21"
+892548,Jennine Popescu,07/09/2021,Legal,"$114,249.63 ",$0.00
+892549,Loella Duker,08/14/2021,Marketing,"$83,444.38 ","$91,788.82"
+892550,Davy Ohrtmann,05/17/2021,Services,"$131,670.45 ",$0.00
+892551,Cati Swiers,07/31/2021,Research and Development,"$139,036.15 ",$0.00
+892552,Hephzibah Burgoin,12/12/2020,Engineering,"$85,453.71 ","$93,999.08"
+892553,Gilberta Lumpkin,05/03/2021,Services,"$61,648.32 ","$67,813.15"
+892554,Sher Goard,03/28/2021,Research and Development,"$79,846.71 ","$87,831.38"
+892555,Kimball Rehor,02/12/2021,Human Resources,"$60,068.71 ","$66,075.58"
+892556,Romola Fortoun,05/13/2021,Sales,"$132,641.34 ",$0.00
+892557,Parsifal Gudgeon,05/20/2021,Engineering,"$137,782.62 ",$0.00
+892558,Jerad Bunkle,11/07/2020,Business Development,"$106,206.86 ",$0.00
+892559,Ursa Quinion,05/03/2021,Legal,"$136,899.85 ",$0.00
+892560,Christophe Varnes,07/17/2021,Product Management,"$69,439.80 ","$76,383.78"
+892561,Nikola Jay,12/26/2020,Marketing,"$129,349.29 ",$0.00
+892562,Boniface Farris,10/08/2020,Product Management,"$86,408.66 ","$95,049.53"
+892563,Eleanore Cantopher,06/04/2021,Product Management,"$55,377.10 ","$60,914.81"
+892564,Tomasina Seckom,05/12/2021,Marketing,"$148,355.86 ",$0.00
+892565,Eamon Spurriar,01/21/2021,Support,"$83,291.22 ","$91,620.34"
+892566,Floyd Josefowicz,01/05/2021,Support,"$133,814.26 ",$0.00
+892567,Pattin Camlin,11/04/2020,Accounting,"$60,917.58 ","$67,009.34"
+892568,Delmor Thaw,04/01/2021,Human Resources,"$95,433.36 ","$104,976.70"
+892569,Arne Van den Dael,05/30/2021,Business Development,"$105,852.88 ",$0.00
+892570,Liza Batalle,01/03/2021,Support,"$115,759.35 ",$0.00
+892571,Free Ambrosoli,08/03/2021,Engineering,"$56,558.86 ","$62,214.75"
+892572,Daniella Bachelor,11/20/2020,Training,"$67,034.65 ","$73,738.12"
+892573,Sonnnie Casotti,07/13/2021,Legal,"$58,990.29 ","$64,889.32"
+892574,Cecily Grundell,06/01/2021,Training,"$55,145.54 ","$60,660.09"
+892575,Gordon McLuckie,11/20/2020,Sales,"$101,867.04 ",$0.00
+892576,Murray Lillow,02/07/2021,Marketing,"$105,141.63 ",$0.00
+892577,Dareen Tremethack,11/02/2020,Engineering,"$84,837.15 ","$93,320.87"
+892578,Lanny Tagg,04/16/2021,Accounting,"$103,752.70 ",$0.00
+892579,Angelia Curtain,05/06/2021,Legal,"$143,064.44 ",$0.00
+892580,Baudoin Stapleton,09/06/2021,Sales,"$125,952.05 ",$0.00
+892581,Brooke Merioth,12/07/2020,Research and Development,"$82,802.61 ","$91,082.87"
+892582,Otto Wardingly,03/04/2021,Accounting,"$103,274.51 ",$0.00
+892583,Mela Burrel,10/22/2020,Marketing,"$105,548.42 ",$0.00
+892584,Lynda Pracy,04/09/2021,Training,"$149,940.17 ",$0.00
+892585,Darill Dorcey,08/29/2021,Marketing,"$141,058.67 ",$0.00
+892586,Brittan Lindblad,05/03/2021,Engineering,"$143,751.82 ",$0.00
+892587,Everett Blagdon,11/17/2020,Business Development,"$121,944.47 ",$0.00
+892588,Marielle Lamey,10/02/2020,Human Resources,"$106,890.32 ",$0.00
+892589,Jermayne Gatchel,10/16/2020,Sales,"$116,771.30 ",$0.00
+892590,Emmey Ashleigh,04/29/2021,Training,"$57,988.95 ","$63,787.85"
+892591,Launce Dutch,01/15/2021,Research and Development,"$129,469.45 ",$0.00
+892592,Ladonna Rijkeseis,09/08/2020,Training,"$92,238.43 ","$101,462.27"
+892593,Karia Durward,05/20/2021,Legal,"$57,890.27 ","$63,679.30"
+892594,Opalina Halhead,11/28/2020,Sales,"$87,362.13 ","$96,098.34"
+892595,Daven Everley,08/25/2021,Research and Development,"$75,771.70 ","$83,348.87"
+892596,Aylmar Topper,08/01/2021,Marketing,"$115,843.97 ",$0.00
+892597,Elise Hilley,07/11/2021,Training,"$108,822.92 ",$0.00
+892598,Annabal Firbanks,01/06/2021,Sales,"$111,341.55 ",$0.00
+892599,Jake Quinsee,04/03/2021,Marketing,"$113,619.57 ",$0.00
+892600,Essa Jago,05/04/2021,Engineering,"$96,685.85 ","$106,354.44"
+892601,Eirena Harold,12/28/2020,Accounting,"$142,706.26 ",$0.00
+892602,Boniface Brimm,08/27/2021,Support,"$108,216.77 ",$0.00
+892603,Terrell Neilus,02/27/2021,Sales,"$125,060.04 ",$0.00
+892604,Eldon Woolam,06/04/2021,Support,"$86,055.78 ","$94,661.36"
+892605,Lila Eveling,11/10/2020,Support,"$84,143.20 ","$92,557.52"
+892606,Seward Shaves,10/22/2020,Research and Development,"$121,888.43 ",$0.00
+892607,Dominique Murphy,09/16/2020,Business Development,"$100,904.40 ",$0.00
+892608,Rosco Heinzel,04/23/2021,Research and Development,"$129,284.67 ",$0.00
+892609,Howard Goodrum,07/17/2021,Sales,"$73,278.89 ","$80,606.78"
+892610,Kimmy Setterfield,08/18/2021,Legal,"$136,775.05 ",$0.00
+892611,Ceil Suddick,11/29/2020,Legal,"$113,141.91 ",$0.00
+892612,Alano Tumasian,09/12/2020,Accounting,"$63,051.84 ","$69,357.02"
+892613,Marysa Mordacai,07/05/2021,Engineering,"$58,557.02 ","$64,412.72"
+892614,Ronalda Castro,01/04/2021,Human Resources,"$66,635.24 ","$73,298.76"
+892615,Shir Roskruge,11/24/2020,Product Management,"$128,855.62 ",$0.00
+892616,Karry Langstone,12/12/2020,Services,"$122,767.99 ",$0.00
+892617,Albina Hawkes,06/16/2021,Product Management,"$111,868.93 ",$0.00
+892618,Rancell Gunderson,05/26/2021,Marketing,"$72,796.15 ","$80,075.77"
+892619,Griffith Diglin,03/05/2021,Research and Development,"$69,734.53 ","$76,707.98"
+892620,Lorenza Blanchard,04/29/2021,Training,"$149,025.54 ",$0.00
+892621,Simon Phlippi,02/11/2021,Research and Development,"$122,710.39 ",$0.00
+892622,Rosemarie Insley,01/13/2021,Business Development,"$104,973.36 ",$0.00
+892623,Kellby Ingall,01/19/2021,Legal,"$74,920.93 ","$82,413.02"
+892624,Karney Kleisle,05/08/2021,Support,"$57,777.24 ","$63,554.96"
+892625,Gillian Myton,08/14/2021,Sales,"$120,662.67 ",$0.00
+892626,Kaspar Lansbury,01/20/2021,Human Resources,"$76,338.35 ","$83,972.19"
+892627,Alfie Felce,07/18/2021,Engineering,"$113,211.06 ",$0.00
+892628,Bartholomeus Izen,10/22/2020,Accounting,"$111,331.41 ",$0.00
+892629,Tawsha Glaister,07/14/2021,Services,"$58,585.26 ","$64,443.79"
+892630,Eddi Dyzart,02/14/2021,Training,"$137,890.36 ",$0.00
+892631,Dolorita Alyutin,01/27/2021,Research and Development,"$131,117.30 ",$0.00
+892632,Carrol Croizier,08/29/2021,Research and Development,"$77,853.00 ","$85,638.30"
+892633,Bryana Breslin,08/20/2021,Research and Development,"$107,303.85 ",$0.00
+892634,Josselyn Bladen,09/22/2020,Human Resources,"$102,890.57 ",$0.00
+892635,Marlo Thody,11/08/2020,Legal,"$105,965.00 ",$0.00
+892636,Giustina Christofe,08/18/2021,Human Resources,"$126,814.86 ",$0.00
+892637,Hermione Chable,01/29/2021,Support,"$77,107.70 ","$84,818.47"
+892638,Charisse Cosgrive,02/23/2021,Support,"$132,886.28 ",$0.00
+892639,Waldemar Keirl,05/08/2021,Support,"$140,972.04 ",$0.00
+892640,Cyrille Impleton,10/14/2020,Services,"$81,949.44 ","$90,144.38"
+892641,Teodoor Emsden,01/05/2021,Engineering,"$86,558.20 ","$95,214.02"
+892642,Prisca Treadaway,09/02/2021,Accounting,"$102,842.19 ",$0.00
+892643,Kaela Jaxon,05/09/2021,Support,"$146,055.78 ",$0.00
+892644,Elianora Burry,10/15/2020,Accounting,"$63,945.74 ","$70,340.31"
+892645,Theodosia Sambell,10/08/2020,Training,"$147,807.09 ",$0.00
+892646,Salomo Dran,12/05/2020,Marketing,"$66,881.76 ","$73,569.94"
+892647,Timmie Fridaye,03/04/2021,Sales,"$110,234.47 ",$0.00
+892648,Mirabelle McElvogue,11/21/2020,Training,"$80,401.35 ","$88,441.49"
+892649,Sasha Chrishop,01/30/2021,Legal,"$83,906.47 ","$92,297.12"
+892650,Thorstein Pedlingham,04/11/2021,Engineering,"$140,260.68 ",$0.00
+892651,Marten Screach,01/01/2021,Support,"$130,526.79 ",$0.00
+892652,Damara Merigot,08/20/2021,Legal,"$75,686.54 ","$83,255.19"
+892653,Ray Mariotte,10/18/2020,Marketing,"$55,905.54 ","$61,496.09"
+892654,Fedora Sturgis,06/24/2021,Services,"$125,298.05 ",$0.00
+892655,Marcelline Dumpleton,09/03/2021,Business Development,"$114,480.21 ",$0.00
+892656,Pincus Fagan,09/03/2021,Marketing,"$61,874.46 ","$68,061.91"
+892657,Maxie Drains,05/30/2021,Legal,"$109,450.05 ",$0.00
+892658,Damiano Blaxall,05/15/2021,Human Resources,"$134,655.35 ",$0.00
+892659,Carilyn Niess,12/11/2020,Engineering,"$65,802.42 ","$72,382.66"
+892660,Terrijo Dransfield,11/20/2020,Services,"$61,459.48 ","$67,605.43"
+892661,Doretta O' Finan,10/18/2020,Business Development,"$118,445.66 ",$0.00
+892662,Roldan Bardwall,02/07/2021,Support,"$81,817.42 ","$89,999.16"
+892663,Arnold Grundwater,08/12/2021,Accounting,"$81,464.21 ","$89,610.63"
+892664,Vikky Rummery,04/06/2021,Business Development,"$119,791.98 ",$0.00
+892665,Rafferty Grantham,03/17/2021,Engineering,"$78,969.87 ","$86,866.86"
+892666,Adrien Shimony,06/19/2021,Product Management,"$109,688.82 ",$0.00
+892667,Ginger Servant,06/01/2021,Engineering,"$148,723.19 ",$0.00
+892668,Gabbi Matisse,02/23/2021,Accounting,"$88,050.87 ","$96,855.96"
+892669,Paxon Lorain,01/17/2021,Business Development,"$96,244.69 ","$105,869.16"
+892670,Fayre Anscombe,06/29/2021,Training,"$88,972.46 ","$97,869.71"
+892671,Whitney Amiranda,02/06/2021,Legal,"$127,463.17 ",$0.00
+892672,Chrysler Naulty,02/15/2021,Sales,"$58,357.57 ","$64,193.33"
+892673,Kirstin Caughtry,02/18/2021,Accounting,"$83,123.70 ","$91,436.07"
+892674,Quentin Crathorne,04/04/2021,Sales,"$120,293.64 ",$0.00
+892675,Adler Kalinsky,10/12/2020,Services,"$126,287.14 ",$0.00
+892676,Annadiana Mastrantone,12/02/2020,Services,"$87,904.58 ","$96,695.04"
+892677,Elyse Hyrons,01/06/2021,Legal,"$75,201.83 ","$82,722.01"
+892678,Deedee Barabich,03/18/2021,Legal,"$129,551.87 ",$0.00
+892679,Dermot Heed,08/28/2021,Human Resources,"$101,600.06 ",$0.00
+892680,Krishnah Gowdridge,03/22/2021,Training,"$130,912.80 ",$0.00
+892681,Karlik Awcock,03/11/2021,Accounting,"$57,909.65 ","$63,700.62"
+892682,Franny Seak,05/22/2021,Product Management,"$99,966.31 ","$109,962.94"
+892683,Tasia Farryn,03/09/2021,Research and Development,"$70,308.05 ","$77,338.86"
+892684,Sauveur Figurski,11/18/2020,Human Resources,"$96,157.24 ","$105,772.96"
+892685,Ram Keniwell,01/28/2021,Legal,"$113,933.24 ",$0.00
+892686,Wendell Caddock,03/29/2021,Business Development,"$67,402.58 ","$74,142.84"
+892687,Ekaterina Sneath,05/04/2021,Engineering,"$91,051.27 ","$100,156.40"
+892688,Fitz Ewdale,01/02/2021,Legal,"$136,405.11 ",$0.00
+892689,Kasper Willcocks,07/15/2021,Accounting,"$138,883.75 ",$0.00
+892690,Nanci Pridham,03/02/2021,Business Development,"$122,094.88 ",$0.00
+892691,Collete Elster,02/10/2021,Accounting,"$123,675.76 ",$0.00
+892692,Thomasina Cumberbatch,04/15/2021,Engineering,"$101,407.58 ",$0.00
+892693,Knox Ledstone,04/30/2021,Support,"$83,334.24 ","$91,667.66"
+892694,Shela Hortop,06/03/2021,Accounting,"$132,592.85 ",$0.00
+892695,Godfry Hastler,12/12/2020,Research and Development,"$112,540.14 ",$0.00
+892696,Faulkner Cottrell,05/19/2021,Marketing,"$87,762.14 ","$96,538.35"
+892697,Cort Rapp,03/18/2021,Accounting,"$129,223.70 ",$0.00
+892698,Tabitha Meco,04/30/2021,Engineering,"$103,148.31 ",$0.00
+892699,Codee Letch,11/06/2020,Marketing,"$97,631.20 ","$107,394.32"
+892700,Emory Cross,01/26/2021,Business Development,"$88,534.16 ","$97,387.58"
+892701,Eirena Fellows,02/11/2021,Human Resources,"$138,112.90 ",$0.00
+892702,Claudianus Van Halen,06/28/2021,Research and Development,"$72,320.30 ","$79,552.33"
+892703,Channa Tomasik,06/06/2021,Legal,"$107,962.89 ",$0.00
+892704,Hilary Kleinber,06/26/2021,Services,"$121,936.49 ",$0.00
+892705,Darb Bruhnsen,07/18/2021,Human Resources,"$115,976.83 ",$0.00
+892706,Baxy Yosselevitch,11/17/2020,Training,"$85,131.50 ","$93,644.65"
+892707,Gard Byway,11/19/2020,Product Management,"$69,450.06 ","$76,395.07"
+892708,Amy Dener,12/09/2020,Engineering,"$107,414.03 ",$0.00
+892709,Siusan Franzel,10/18/2020,Research and Development,"$108,783.42 ",$0.00
+892710,Carolan Lebel,01/15/2021,Sales,"$99,317.15 ","$109,248.87"
+892711,Gabriel Rosenfarb,05/20/2021,Human Resources,"$103,061.32 ",$0.00
+892712,Ronald Birkwood,04/08/2021,Business Development,"$84,961.89 ","$93,458.08"
+892713,Rriocard Raoux,03/27/2021,Services,"$74,616.55 ","$82,078.21"
+892714,Elvin Aust,07/06/2021,Services,"$119,885.82 ",$0.00
+892715,Alan Quarmby,10/31/2020,Product Management,"$102,001.39 ",$0.00
+892716,Alina Le Strange,10/27/2020,Services,"$82,253.98 ","$90,479.38"
+892717,Westley Korda,08/20/2021,Accounting,"$114,660.59 ",$0.00
+892718,Julie Coke,11/30/2020,Services,"$66,021.79 ","$72,623.97"
+892719,Lea Camock,09/17/2020,Sales,"$116,315.82 ",$0.00
+892720,Natividad Fabler,12/19/2020,Sales,"$82,427.48 ","$90,670.23"
+892721,Dorie Cridlon,04/20/2021,Training,"$129,806.40 ",$0.00
+892722,Timmie Moye,10/06/2020,Sales,"$106,394.66 ",$0.00
+892723,Helen-elizabeth Humfrey,09/19/2020,Business Development,"$70,950.29 ","$78,045.32"
+892724,Alvy MacConnal,01/23/2021,Training,"$100,251.00 ",$0.00
+892725,Tait Cherrett,10/03/2020,Training,"$80,094.51 ","$88,103.96"
+892726,Dare McGready,10/25/2020,Support,"$139,321.53 ",$0.00
+892727,Wood Greder,12/27/2020,Engineering,"$113,059.87 ",$0.00
+892728,Cassy MacIllrick,02/13/2021,Human Resources,"$110,706.00 ",$0.00
+892729,Avigdor Warmisham,10/31/2020,Sales,"$135,229.54 ",$0.00
+892730,Cale Joist,12/06/2020,Business Development,"$90,563.82 ","$99,620.20"
+892731,Odele Espinel,11/18/2020,Support,"$63,990.02 ","$70,389.02"
+892732,Wainwright Akenhead,12/28/2020,Business Development,"$72,126.20 ","$79,338.82"
+892733,El Dabner,01/07/2021,Research and Development,"$59,873.81 ","$65,861.19"
+892734,Almira De Blase,06/29/2021,Services,"$92,272.03 ","$101,499.23"
+892735,Delmar Mishow,05/29/2021,Sales,"$57,863.56 ","$63,649.92"
+892736,August Doud,02/13/2021,Marketing,"$60,293.24 ","$66,322.56"
+892737,Margo Uzelli,03/21/2021,Business Development,"$136,385.04 ",$0.00
+892738,Tomasina Pesek,11/04/2020,Sales,"$61,456.80 ","$67,602.48"
+892739,Rudolfo Letty,09/23/2020,Services,"$83,806.78 ","$92,187.46"
+892740,L;urette Cruikshanks,04/05/2021,Legal,"$56,780.23 ","$62,458.25"
+892741,Fielding Bacchus,08/19/2021,Research and Development,"$79,180.18 ","$87,098.20"
+892742,Alexine Huband,05/20/2021,Training,"$147,348.63 ",$0.00
+892743,Benny Pattesall,03/06/2021,Training,"$57,924.99 ","$63,717.49"
+892744,Shae Syrie,07/17/2021,Research and Development,"$115,784.93 ",$0.00
+892745,Riley Shinner,10/23/2020,Business Development,"$116,099.34 ",$0.00
+892746,Ellery Varlow,06/29/2021,Training,"$95,543.52 ","$105,097.87"
+892747,Parker Agates,02/24/2021,Accounting,"$138,931.64 ",$0.00
+892748,Morey Popping,08/22/2021,Training,"$109,799.08 ",$0.00
+892749,Zedekiah Geharke,06/03/2021,Product Management,"$141,180.79 ",$0.00
+892750,Adolphus Fernier,11/14/2020,Accounting,"$142,499.02 ",$0.00
+892751,Morgana Stallworthy,03/30/2021,Marketing,"$129,356.81 ",$0.00
+892752,Loraine Montgomery,01/11/2021,Services,"$149,981.33 ",$0.00
+892753,Gregoor Corrington,06/03/2021,Marketing,"$64,581.90 ","$71,040.09"
+892754,Berny Hassett,01/13/2021,Services,"$129,067.16 ",$0.00
+892755,Georgeanne Wynrahame,05/15/2021,Legal,"$134,533.94 ",$0.00
+892756,Harrie Jeggo,07/01/2021,Training,"$129,462.15 ",$0.00
+892757,Guillermo Jakubovski,06/12/2021,Engineering,"$67,108.66 ","$73,819.53"
+892758,Lula Freeberne,09/23/2020,Business Development,"$76,351.75 ","$83,986.93"
+892759,Abelard Sidsaff,11/08/2020,Accounting,"$137,122.49 ",$0.00
+892760,Shelbi Redborn,11/09/2020,Engineering,"$65,251.96 ","$71,777.16"
+892761,Matthiew Dunklee,08/15/2021,Human Resources,"$118,821.76 ",$0.00
+892762,Sunshine Neil,11/12/2020,Legal,"$86,823.96 ","$95,506.36"
+892763,Holmes MacIlraith,12/26/2020,Services,"$119,943.93 ",$0.00
+892764,Melicent Matschoss,12/09/2020,Training,"$147,384.61 ",$0.00
+892765,Kristen Motto,11/15/2020,Human Resources,"$120,303.98 ",$0.00
+892766,Wyn Macari,07/30/2021,Engineering,"$146,907.16 ",$0.00
+892767,Cally Orrill,12/23/2020,Product Management,"$95,931.64 ","$105,524.80"
+892768,Oralia Leveret,12/12/2020,Marketing,"$96,208.75 ","$105,829.63"
+892769,Amberly Scrowby,01/07/2021,Sales,"$148,889.86 ",$0.00
+892770,Prescott Evetts,04/22/2021,Sales,"$62,607.35 ","$68,868.09"
+892771,Ronnie Payze,10/10/2020,Sales,"$102,478.57 ",$0.00
+892772,Lynda Putley,02/14/2021,Marketing,"$122,803.47 ",$0.00
+892773,Der Stampe,12/13/2020,Support,"$81,047.05 ","$89,151.76"
+892774,Gabriello Limpertz,10/07/2020,Services,"$147,491.85 ",$0.00
+892775,Steffie Battey,09/29/2020,Product Management,"$137,190.45 ",$0.00
+892776,Cooper Verrall,08/18/2021,Marketing,"$106,473.89 ",$0.00
+892777,Amitie Dowdall,05/13/2021,Product Management,"$135,600.03 ",$0.00
+892778,Muire Miko,11/21/2020,Legal,"$124,849.38 ",$0.00
+892779,Whitney Getley,09/18/2020,Marketing,"$130,345.63 ",$0.00
+892780,Salomo Kacheller,05/13/2021,Research and Development,"$77,989.50 ","$85,788.45"
+892781,Dalt Poulglais,10/31/2020,Services,"$94,393.47 ","$103,832.82"
+892782,Slade Billings,12/23/2020,Services,"$111,335.52 ",$0.00
+892783,Guillermo Lathaye,10/29/2020,Research and Development,"$84,352.82 ","$92,788.10"
+892784,Pammi Crus,05/13/2021,Training,"$106,070.08 ",$0.00
+892785,Brietta Gellately,09/11/2020,Accounting,"$100,637.51 ",$0.00
+892786,Clemmy Breawood,10/15/2020,Services,"$142,780.20 ",$0.00
+892787,Tito Ramm,01/11/2021,Services,"$132,834.92 ",$0.00
+892788,Kimbell McClosh,07/28/2021,Marketing,"$75,867.13 ","$83,453.84"
+892789,Zahara Barribal,04/09/2021,Training,"$146,675.33 ",$0.00
+892790,Monroe Baunton,09/01/2021,Human Resources,"$105,741.89 ",$0.00
+892791,Vassily Weiner,12/09/2020,Product Management,"$136,851.87 ",$0.00
+892792,Sheela Gamlin,10/11/2020,Accounting,"$82,597.49 ","$90,857.24"
+892793,Cornelle Newick,01/28/2021,Training,"$68,701.71 ","$75,571.88"
+892794,Carola Childes,01/08/2021,Services,"$72,795.50 ","$80,075.05"
+892795,Laney Aslie,07/23/2021,Services,"$115,408.42 ",$0.00
+892796,Robinette Sleicht,10/18/2020,Product Management,"$70,911.51 ","$78,002.66"
+892797,Kaycee O' Meara,04/17/2021,Training,"$113,032.57 ",$0.00
+892798,Romain Casado,07/20/2021,Training,"$125,834.16 ",$0.00
+892799,Doug Lettuce,04/05/2021,Accounting,"$109,651.42 ",$0.00
+892800,Sadella Sherston,03/28/2021,Services,"$89,912.80 ","$98,904.08"
+892801,Roxie Swanton,12/15/2020,Product Management,"$82,809.27 ","$91,090.20"
+892802,Adi Selesnick,11/03/2020,Sales,"$79,887.36 ","$87,876.10"
+892803,Karine Bennie,01/29/2021,Marketing,"$110,355.15 ",$0.00
+892804,Jerrome Romeo,07/24/2021,Engineering,"$98,568.75 ","$108,425.63"
+892805,Tammara Puckey,12/11/2020,Engineering,"$113,910.54 ",$0.00
+892806,Annie Noton,04/12/2021,Services,"$71,996.82 ","$79,196.50"
+892807,Euell Gadault,02/13/2021,Accounting,"$125,716.81 ",$0.00
+892808,Sherri Gomery,01/10/2021,Accounting,"$86,899.44 ","$95,589.38"
+892809,Buck Malden,12/17/2020,Services,"$133,351.56 ",$0.00
+892810,Wylma Vinall,09/19/2020,Engineering,"$55,760.96 ","$61,337.06"
+892811,Onofredo Garron,08/12/2021,Business Development,"$120,002.44 ",$0.00
+892812,Aksel Wearden,08/05/2021,Marketing,"$121,414.33 ",$0.00
+892813,Raeann Bompas,04/27/2021,Product Management,"$126,109.79 ",$0.00
+892814,Cornela Walkden,05/13/2021,Marketing,"$98,719.51 ","$108,591.46"
+892815,Niki Cawson,11/10/2020,Training,"$141,249.89 ",$0.00
+892816,Mateo Tesoe,03/21/2021,Marketing,"$82,546.96 ","$90,801.66"
+892817,Cristionna Duke,02/04/2021,Engineering,"$113,484.47 ",$0.00
+892818,Buffy Trevear,09/14/2020,Support,"$87,111.81 ","$95,822.99"
+892819,Prinz Oldall,03/04/2021,Engineering,"$101,761.16 ",$0.00
+892820,Nady MacAlroy,12/30/2020,Research and Development,"$71,893.94 ","$79,083.33"
+892821,Basil Macari,10/27/2020,Support,"$128,128.24 ",$0.00
+892822,Sophronia Jevons,05/15/2021,Legal,"$70,855.61 ","$77,941.17"
+892823,Darb Reiner,02/23/2021,Services,"$62,604.43 ","$68,864.87"
+892824,Nicholle Grzelak,09/03/2021,Services,"$142,576.36 ",$0.00
+892825,Tallulah Cosgrave,07/20/2021,Accounting,"$102,534.96 ",$0.00
+892826,Korella Chapellow,04/24/2021,Product Management,"$147,568.63 ",$0.00
+892827,Tim Udell,04/15/2021,Legal,"$75,536.88 ","$83,090.57"
+892828,Glennis Tuerena,07/19/2021,Business Development,"$126,056.63 ",$0.00
+892829,Micah Mellonby,01/22/2021,Marketing,"$76,844.21 ","$84,528.63"
+892830,Chancey Charge,01/04/2021,Support,"$92,662.61 ","$101,928.87"
+892831,Oswald Franek,05/18/2021,Marketing,"$62,669.57 ","$68,936.53"
+892832,Konrad Hebard,12/06/2020,Training,"$130,887.64 ",$0.00
+892833,Janina Osan,11/02/2020,Marketing,"$96,531.88 ","$106,185.07"
+892834,Bathsheba Shoebotham,02/22/2021,Support,"$101,204.37 ",$0.00
+892835,Coop Ervine,08/11/2021,Sales,"$93,166.95 ","$102,483.65"
+892836,Cammy Vannet,03/24/2021,Services,"$115,069.45 ",$0.00
+892837,Consolata Sheffield,02/03/2021,Legal,"$82,549.80 ","$90,804.78"
+892838,Henrik Giovannini,10/13/2020,Engineering,"$103,474.96 ",$0.00
+892839,Bel Boucher,10/03/2020,Human Resources,"$59,152.22 ","$65,067.44"
+892840,Rock Sakins,05/03/2021,Legal,"$98,686.94 ","$108,555.63"
+892841,Rick Kaminski,02/04/2021,Accounting,"$107,126.00 ",$0.00
+892842,Salvidor Brazelton,08/22/2021,Marketing,"$76,494.90 ","$84,144.39"
+892843,Lorelle Eakins,02/22/2021,Accounting,"$69,020.49 ","$75,922.54"
+892844,Gabey Valentelli,12/30/2020,Legal,"$124,922.57 ",$0.00
+892845,Hiram Rodgerson,01/23/2021,Human Resources,"$71,157.24 ","$78,272.96"
+892846,Tiena Sergison,06/19/2021,Research and Development,"$148,808.89 ",$0.00
+892847,Jarid Batisse,11/05/2020,Engineering,"$70,668.18 ","$77,735.00"
+892848,Geraldine Miskelly,07/20/2021,Product Management,"$65,258.52 ","$71,784.37"
+892849,Chrystel Baldick,03/18/2021,Accounting,"$134,672.37 ",$0.00
+892850,Marv Hovey,11/01/2020,Human Resources,"$145,039.85 ",$0.00
+892851,Silvester Sinney,03/24/2021,Sales,"$72,018.11 ","$79,219.92"
+892852,Coletta McCreadie,07/23/2021,Support,"$149,024.05 ",$0.00
+892853,Babara Bott,05/17/2021,Research and Development,"$67,711.39 ","$74,482.53"
+892854,Darcee Sijmons,04/15/2021,Engineering,"$136,424.19 ",$0.00
+892855,Shoshanna Pidgeon,01/19/2021,Services,"$55,292.20 ","$60,821.42"
+892856,Ilyssa Rubes,09/22/2020,Legal,"$81,879.57 ","$90,067.53"
+892857,Bobbie Wharrier,05/05/2021,Business Development,"$130,182.99 ",$0.00
+892858,Ianthe Comiskey,03/11/2021,Business Development,"$66,621.63 ","$73,283.79"
+892859,Crissy McLorinan,01/24/2021,Business Development,"$63,418.00 ","$69,759.80"
+892860,Jamima Billiard,06/21/2021,Marketing,"$105,706.62 ",$0.00
+892861,Garik Cheke,08/20/2021,Research and Development,"$144,247.76 ",$0.00
+892862,Isabella Stife,11/13/2020,Training,"$107,633.44 ",$0.00
+892863,Tanya Detoile,11/03/2020,Legal,"$67,556.94 ","$74,312.63"
+892864,Felicia Salvin,06/21/2021,Marketing,"$129,545.24 ",$0.00
+892865,Hadley Laudham,01/20/2021,Training,"$149,910.29 ",$0.00
+892866,Wandis Tuison,09/07/2021,Training,"$79,845.30 ","$87,829.83"
+892867,Jerrome Jakucewicz,05/25/2021,Business Development,"$140,852.71 ",$0.00
+892868,Orson Blasiak,12/31/2020,Support,"$74,688.95 ","$82,157.85"
+892869,Hedvige Eyton,03/15/2021,Research and Development,"$109,378.89 ",$0.00
+892870,Wilbert Bwye,12/22/2020,Legal,"$89,088.28 ","$97,997.11"
+892871,Heywood Mitchelhill,07/23/2021,Services,"$75,864.95 ","$83,451.45"
+892872,Sansone Dumbellow,02/18/2021,Sales,"$89,867.34 ","$98,854.07"
+892873,Andras Northin,10/09/2020,Support,"$128,607.24 ",$0.00
+892874,Evania Heisham,04/15/2021,Engineering,"$135,534.09 ",$0.00
+892875,Lauree Enterle,06/23/2021,Sales,"$76,384.62 ","$84,023.08"
+892876,Carce Moxom,05/22/2021,Business Development,"$89,812.75 ","$98,794.03"
+892877,Margeaux Woolmer,06/17/2021,Research and Development,"$117,790.97 ",$0.00
+892878,Florella Lintin,12/11/2020,Legal,"$125,365.81 ",$0.00
+892879,Baily Siburn,10/17/2020,Support,"$137,202.50 ",$0.00
+892880,Georgetta Getty,10/09/2020,Research and Development,"$68,396.58 ","$75,236.24"
+892881,Sib Magwood,08/19/2021,Legal,"$127,511.21 ",$0.00
+892882,Jerry Bordone,11/05/2020,Sales,"$76,134.60 ","$83,748.06"
+892883,Matt Bardsley,07/10/2021,Support,"$144,052.20 ",$0.00
+892884,Artemas Heineken,01/22/2021,Accounting,"$79,105.94 ","$87,016.53"
+892885,Gerald Elcocks,03/19/2021,Marketing,"$129,397.43 ",$0.00
+892886,Juliane Dunican,05/10/2021,Product Management,"$131,539.12 ",$0.00
+892887,Ron Enochsson,12/30/2020,Business Development,"$59,952.47 ","$65,947.72"
+892888,Carolin Louisot,01/04/2021,Research and Development,"$124,381.14 ",$0.00
+892889,Flem Portis,11/16/2020,Research and Development,"$135,319.70 ",$0.00
+892890,Kerrill Magovern,10/11/2020,Services,"$114,492.80 ",$0.00
+892891,Ingra Corbyn,07/28/2021,Training,"$91,503.33 ","$100,653.66"
+892892,Joana Carthew,03/17/2021,Human Resources,"$85,210.19 ","$93,731.21"
+892893,Piper Measey,02/06/2021,Support,"$121,869.56 ",$0.00
+892894,Olivier Aggis,10/09/2020,Sales,"$137,075.68 ",$0.00
+892895,Jocelyn Ingledew,10/19/2020,Engineering,"$93,865.89 ","$103,252.48"
+892896,Charlene Leyninye,12/05/2020,Engineering,"$107,306.48 ",$0.00
+892897,Lewie Butterick,09/26/2020,Accounting,"$58,082.43 ","$63,890.67"
+892898,Analise Dangerfield,12/03/2020,Accounting,"$56,042.40 ","$61,646.64"
+892899,Aileen Duckers,01/18/2021,Business Development,"$148,852.32 ",$0.00
+892900,Margot Copcote,07/23/2021,Training,"$87,006.93 ","$95,707.62"
+892901,Byrom Raffin,02/26/2021,Research and Development,"$144,335.25 ",$0.00
+892902,Fae Paffot,11/21/2020,Human Resources,"$82,371.56 ","$90,608.72"
+892903,Ruthe Buckenham,06/03/2021,Services,"$142,846.72 ",$0.00
+892904,Turner Delacoste,09/06/2021,Human Resources,"$146,255.40 ",$0.00
+892905,Mackenzie MacGaughey,05/06/2021,Services,"$97,590.48 ","$107,349.53"
+892906,Alexandra Haughin,03/20/2021,Product Management,"$80,452.17 ","$88,497.39"
+892907,Aaren Lightbown,02/06/2021,Product Management,"$144,486.39 ",$0.00
+892908,Charlot Nibley,05/30/2021,Product Management,"$62,731.20 ","$69,004.32"
+892909,Fernanda Dines,06/25/2021,Sales,"$61,094.40 ","$67,203.84"
+892910,Kiel Magill,09/16/2020,Accounting,"$134,166.30 ",$0.00
+892911,Basilio Royce,12/25/2020,Training,"$111,912.23 ",$0.00
+892912,Dale Wedlock,11/05/2020,Accounting,"$119,432.85 ",$0.00
+892913,Erda Beadnall,03/20/2021,Legal,"$60,166.55 ","$66,183.21"
+892914,Parnell Bainton,07/11/2021,Engineering,"$107,870.25 ",$0.00
+892915,Uta Linay,01/30/2021,Sales,"$87,428.71 ","$96,171.58"
+892916,Thatcher Isack,01/20/2021,Engineering,"$148,326.88 ",$0.00
+892917,Felipa Albin,02/10/2021,Engineering,"$139,913.85 ",$0.00
+892918,Patty Macrow,11/24/2020,Engineering,"$141,912.37 ",$0.00
+892919,Corly Taverner,07/27/2021,Product Management,"$120,583.54 ",$0.00
+892920,Ginger Doreward,02/14/2021,Research and Development,"$65,859.41 ","$72,445.35"
+892921,Hollyanne Brear,06/13/2021,Training,"$134,963.51 ",$0.00
+892922,Daloris Pinkie,08/11/2021,Services,"$122,231.71 ",$0.00
+892923,Levon Deval,09/28/2020,Accounting,"$85,359.03 ","$93,894.93"
+892924,Benny Attril,02/24/2021,Services,"$107,722.36 ",$0.00
+892925,Elva Canland,05/25/2021,Product Management,"$147,918.54 ",$0.00
+892926,Cirillo Gosnay,03/04/2021,Business Development,"$147,435.38 ",$0.00
+892927,Carmelle Arkle,08/09/2021,Engineering,"$102,415.47 ",$0.00
+892928,Vicky Leadbetter,11/03/2020,Services,"$140,343.62 ",$0.00
+892929,Velvet Krzysztofiak,04/25/2021,Services,"$124,989.98 ",$0.00
+892930,Rickard Dowglass,06/11/2021,Business Development,"$139,680.26 ",$0.00
+892931,Tymon Kopfer,02/03/2021,Marketing,"$108,396.98 ",$0.00
+892932,Korney Liger,02/13/2021,Business Development,"$122,847.11 ",$0.00
+892933,Dehlia Maypowder,01/10/2021,Business Development,"$96,358.69 ","$105,994.56"
+892934,Chiarra Readshall,08/27/2021,Human Resources,"$102,219.09 ",$0.00
+892935,Ellynn Siebert,03/19/2021,Training,"$119,027.15 ",$0.00
+892936,Arlen Heaselgrave,05/08/2021,Support,"$111,183.94 ",$0.00
+892937,Thain Truett,12/19/2020,Engineering,"$130,308.89 ",$0.00
+892938,Eleanora Doveston,01/15/2021,Human Resources,"$142,661.58 ",$0.00
+892939,Diannne Danilovitch,11/28/2020,Engineering,"$80,131.48 ","$88,144.63"
+892940,Laural Gounet,04/22/2021,Research and Development,"$114,941.29 ",$0.00
+892941,Dulcia Whodcoat,05/20/2021,Human Resources,"$131,983.83 ",$0.00
+892942,Rosemarie Dingivan,09/04/2021,Human Resources,"$95,674.50 ","$105,241.95"
+892943,Cindi Michelle,12/27/2020,Training,"$142,793.74 ",$0.00
+892944,Wendeline Syratt,09/16/2020,Marketing,"$110,216.52 ",$0.00
+892945,Nerissa Cello,10/30/2020,Legal,"$97,737.53 ","$107,511.28"
+892946,Grayce Dunkinson,10/06/2020,Training,"$83,767.81 ","$92,144.59"
+892947,Derby Earlam,09/23/2020,Human Resources,"$110,668.80 ",$0.00
+892948,Otho Lupton,07/12/2021,Services,"$73,900.10 ","$81,290.11"
+892949,Brianne Stansbie,10/18/2020,Human Resources,"$65,729.22 ","$72,302.14"
+892950,Roxine Pridgeon,02/23/2021,Legal,"$78,232.24 ","$86,055.46"
+892951,Fayre Heinl,04/10/2021,Engineering,"$73,715.04 ","$81,086.54"
+892952,Caitrin Dinnage,07/18/2021,Legal,"$72,336.68 ","$79,570.35"
+892953,Henriette Creed,07/14/2021,Training,"$90,288.03 ","$99,316.83"
+892954,Rivalee Cicchetto,01/22/2021,Product Management,"$125,922.04 ",$0.00
+892955,Bertina Greeveson,03/14/2021,Engineering,"$128,442.46 ",$0.00
+892956,Dollie Wedlake,06/07/2021,Sales,"$70,884.03 ","$77,972.43"
+892957,Levy Jobbings,02/14/2021,Sales,"$131,400.85 ",$0.00
+892958,Donall Zincke,01/24/2021,Product Management,"$98,756.58 ","$108,632.24"
+892959,Ruthy Selborne,06/16/2021,Engineering,"$60,566.66 ","$66,623.33"
+892960,Errol Minto,10/18/2020,Engineering,"$55,567.73 ","$61,124.50"
+892961,Estelle Swadlinge,06/07/2021,Human Resources,"$99,508.37 ","$109,459.21"
+892962,Ranice Mildner,04/14/2021,Accounting,"$113,320.40 ",$0.00
+892963,Wallace Massingberd,08/26/2021,Services,"$56,592.80 ","$62,252.08"
+892964,Ellene McAvey,10/20/2020,Marketing,"$125,025.07 ",$0.00
+892965,Maurine Penson,03/18/2021,Services,"$108,582.97 ",$0.00
+892966,Tuck Cockroft,07/02/2021,Sales,"$90,516.02 ","$99,567.62"
+892967,Marlin Guite,07/28/2021,Accounting,"$69,471.56 ","$76,418.72"
+892968,Jere Epinay,10/07/2020,Human Resources,"$129,486.53 ",$0.00
+892969,Darbee Codrington,05/16/2021,Services,"$67,197.62 ","$73,917.38"
+892970,Arvy Eltune,01/17/2021,Business Development,"$72,031.62 ","$79,234.78"
+892971,Marylee Melson,09/14/2020,Marketing,"$129,832.76 ",$0.00
+892972,Abbot Swepstone,01/23/2021,Business Development,"$134,033.07 ",$0.00
+892973,Martainn Bushen,01/17/2021,Services,"$59,778.40 ","$65,756.24"
+892974,Megen Withrington,08/25/2021,Services,"$80,500.57 ","$88,550.63"
+892975,Feodor Valance,12/05/2020,Services,"$112,005.17 ",$0.00
+892976,Raye Aberkirdo,04/30/2021,Sales,"$125,514.52 ",$0.00
+892977,Jennette Lacey,09/27/2020,Support,"$119,318.48 ",$0.00
+892978,Rosalinda MacDonnell,03/07/2021,Marketing,"$92,825.22 ","$102,107.74"
+892979,Umberto Yakubowicz,05/07/2021,Training,"$56,425.19 ","$62,067.71"
+892980,Harli Hawkswood,09/28/2020,Training,"$73,203.29 ","$80,523.62"
+892981,Dennie Matteoni,12/02/2020,Training,"$138,879.06 ",$0.00
+892982,Fabe Hukins,01/29/2021,Research and Development,"$106,747.41 ",$0.00
+892983,Keefe Karpychev,11/25/2020,Services,"$106,788.06 ",$0.00
+892984,Wendel Popplestone,09/24/2020,Training,"$138,154.10 ",$0.00
+892985,Israel Gavini,07/30/2021,Business Development,"$122,747.70 ",$0.00
+892986,Heinrick Gramer,08/11/2021,Legal,"$106,653.75 ",$0.00
+892987,Ardisj Dahle,08/23/2021,Services,"$72,733.60 ","$80,006.96"
+892988,Fraze Yashanov,10/12/2020,Engineering,"$114,836.16 ",$0.00
+892989,Ula Epilet,12/31/2020,Training,"$111,450.49 ",$0.00
+892990,Karoly Maker,02/11/2021,Research and Development,"$113,091.90 ",$0.00
+892991,Hogan Jansson,06/25/2021,Product Management,"$79,510.27 ","$87,461.30"
+892992,Torr Brookes,02/12/2021,Legal,"$137,074.10 ",$0.00
+892993,Lucie Renhard,03/06/2021,Support,"$76,783.48 ","$84,461.83"
+892994,Ilka Solly,05/16/2021,Engineering,"$145,608.54 ",$0.00
+892995,Rudolfo Plenderleith,07/21/2021,Engineering,"$83,999.10 ","$92,399.01"
+892996,Gennifer Reihill,06/17/2021,Sales,"$140,196.16 ",$0.00
+892997,Harold Willeman,12/28/2020,Business Development,"$146,990.42 ",$0.00
+892998,Shem Whapham,06/05/2021,Business Development,"$108,247.19 ",$0.00
+892999,Tynan Malden,09/23/2020,Support,"$75,725.13 ","$83,297.64"
+893000,Ileane O Sullivan,08/31/2021,Services,"$141,168.32 ",$0.00
+893001,Ambur Backwell,08/26/2021,Marketing,"$75,292.20 ","$82,821.42"
+893002,Shannah Waryk,12/03/2020,Human Resources,"$95,428.82 ","$104,971.70"
+893003,Eddi Vost,03/24/2021,Business Development,"$60,229.94 ","$66,252.93"
+893004,Jock People,03/10/2021,Legal,"$103,236.86 ",$0.00
+893005,Shaine Haton,06/14/2021,Legal,"$131,142.47 ",$0.00
+893006,Jordan Hadigate,07/03/2021,Training,"$76,737.11 ","$84,410.82"
+893007,Fletcher Bradford,10/16/2020,Business Development,"$145,109.99 ",$0.00
+893008,Lynnell Perrygo,03/06/2021,Legal,"$121,811.49 ",$0.00
+893009,Lazaro Cast,11/30/2020,Marketing,"$103,185.96 ",$0.00
+893010,Meade Fley,03/08/2021,Sales,"$126,080.85 ",$0.00
+893011,Kliment Grassett,09/08/2020,Product Management,"$146,965.82 ",$0.00
+893012,Jodie Lindsell,09/04/2021,Engineering,"$76,756.35 ","$84,431.99"
+893013,Dotti Fillimore,03/01/2021,Accounting,"$96,328.34 ","$105,961.17"
+893014,Dorelia Sommerled,01/06/2021,Business Development,"$133,230.55 ",$0.00
+893015,Berkie Addeycott,02/28/2021,Accounting,"$118,977.32 ",$0.00
+893016,Marcy Broome,08/03/2021,Product Management,"$101,730.12 ",$0.00
+893017,Lyssa Greally,06/18/2021,Training,"$121,105.35 ",$0.00
+893018,Keelia Chaundy,09/12/2020,Research and Development,"$89,657.43 ","$98,623.17"
+893019,Nikola Dawes,06/14/2021,Sales,"$116,978.59 ",$0.00
+893020,Eldon Sydes,02/18/2021,Support,"$65,483.33 ","$72,031.66"
+893021,Maryanne Whitsey,07/01/2021,Human Resources,"$126,109.01 ",$0.00
+893022,Vilhelmina Rennison,09/01/2021,Engineering,"$148,711.02 ",$0.00
+893023,Pennie Wisher,05/10/2021,Sales,"$95,248.05 ","$104,772.86"
+893024,Misti Gunnell,04/09/2021,Business Development,"$97,748.22 ","$107,523.04"
+893025,Giffie Loudyan,04/23/2021,Support,"$142,210.93 ",$0.00
+893026,Etty Spadaro,04/07/2021,Research and Development,"$129,351.64 ",$0.00
+893027,Udall Arnaudi,04/09/2021,Training,"$77,458.78 ","$85,204.66"
+893028,Zarah Hantusch,01/11/2021,Product Management,"$113,208.68 ",$0.00
+893029,Pierson Marmion,08/03/2021,Training,"$99,666.54 ","$109,633.19"
+893030,Dilly Lamacraft,06/04/2021,Marketing,"$136,773.98 ",$0.00
+893031,Saul Visick,03/10/2021,Legal,"$64,896.11 ","$71,385.72"
+893032,Genovera Hayland,09/01/2021,Services,"$132,449.87 ",$0.00
+893033,Ivie Trowel,10/15/2020,Research and Development,"$108,316.03 ",$0.00
+893034,Verene Kerin,11/22/2020,Legal,"$114,771.98 ",$0.00
+893035,Edita Ionn,07/08/2021,Marketing,"$110,302.04 ",$0.00
+893036,Ronalda Huguet,12/26/2020,Marketing,"$74,467.12 ","$81,913.83"
+893037,Ramonda Trace,01/02/2021,Business Development,"$60,082.95 ","$66,091.25"
+893038,Hermy Side,02/15/2021,Accounting,"$127,634.49 ",$0.00
+893039,Gracie McCowen,01/26/2021,Business Development,"$128,930.27 ",$0.00
+893040,Chicky Yakobovitz,06/05/2021,Engineering,"$84,747.46 ","$93,222.21"
+893041,Danella O'Gready,10/10/2020,Sales,"$112,990.48 ",$0.00
+893042,Dennie Mildmott,03/28/2021,Sales,"$110,996.31 ",$0.00
+893043,Jorry Curle,10/29/2020,Business Development,"$143,858.35 ",$0.00
+893044,Giusto Marriage,09/06/2021,Product Management,"$91,607.39 ","$100,768.13"
+893045,Aggy Waszkiewicz,05/22/2021,Marketing,"$61,415.64 ","$67,557.20"
+893046,Corri Kretchmer,04/24/2021,Support,"$132,953.22 ",$0.00
+893047,Roscoe Bruyett,03/09/2021,Services,"$100,557.52 ",$0.00
+893048,Orren Peverell,11/25/2020,Product Management,"$78,666.42 ","$86,533.06"
+893049,Kippy O'Hearn,11/07/2020,Training,"$96,401.93 ","$106,042.12"
+893050,Tansy Schwandermann,06/09/2021,Marketing,"$77,916.23 ","$85,707.85"
+893051,Wade Hyder,06/12/2021,Business Development,"$74,733.21 ","$82,206.53"
+893052,Violante Borzoni,01/10/2021,Business Development,"$57,787.11 ","$63,565.82"
+893053,Ronica Biskupiak,07/04/2021,Support,"$102,010.02 ",$0.00
+893054,Engracia Supple,04/26/2021,Business Development,"$97,352.10 ","$107,087.31"
+893055,Mathias Boothe,04/30/2021,Sales,"$81,966.63 ","$90,163.29"
+893056,Mylo Toombes,02/25/2021,Business Development,"$130,877.92 ",$0.00
+893057,Austin Laite,11/23/2020,Legal,"$116,007.10 ",$0.00
+893058,Myriam Parffrey,06/05/2021,Accounting,"$64,256.75 ","$70,682.43"
+893059,Adelbert Botwright,09/18/2020,Human Resources,"$136,336.15 ",$0.00
+893060,Job Deetlefs,09/26/2020,Product Management,"$70,532.82 ","$77,586.10"
+893061,Rickey O'Caine,11/14/2020,Legal,"$94,557.57 ","$104,013.33"
+893062,Prisca Merdew,09/24/2020,Support,"$119,404.40 ",$0.00
+893063,Quincey Skeermor,02/25/2021,Business Development,"$148,848.68 ",$0.00
+893064,Ursola Fitzsimon,01/03/2021,Legal,"$71,655.95 ","$78,821.55"
+893065,Shane Western,11/27/2020,Sales,"$138,616.11 ",$0.00
+893066,Dew Wilcocke,06/23/2021,Product Management,"$81,529.55 ","$89,682.51"
+893067,Imojean Duley,11/20/2020,Services,"$105,820.69 ",$0.00
+893068,Casandra Fall,12/23/2020,Marketing,"$70,411.76 ","$77,452.94"
+893069,Annadiane Ikringill,01/20/2021,Engineering,"$104,151.40 ",$0.00
+893070,Viviyan Tann,03/10/2021,Human Resources,"$133,296.88 ",$0.00
+893071,Hazel Ornells,05/26/2021,Accounting,"$84,486.77 ","$92,935.45"
+893072,Rudyard Smout,01/05/2021,Research and Development,"$103,830.31 ",$0.00
+893073,Robin Diano,11/10/2020,Research and Development,"$140,589.75 ",$0.00
+893074,Cloris Pringle,07/18/2021,Product Management,"$140,355.45 ",$0.00
+893075,Shandie Drewe,12/12/2020,Support,"$114,911.93 ",$0.00
+893076,Gaye Gregine,05/24/2021,Product Management,"$91,397.77 ","$100,537.55"
+893077,Elmira Brizland,03/15/2021,Marketing,"$129,375.36 ",$0.00
+893078,William Heardman,03/28/2021,Product Management,"$67,048.38 ","$73,753.22"
+893079,Alyda Salzberg,01/02/2021,Marketing,"$124,755.17 ",$0.00
+893080,Kimberley Hazley,03/24/2021,Training,"$93,737.05 ","$103,110.76"
+893081,Thea Couzens,11/19/2020,Support,"$147,653.11 ",$0.00
+893082,Valaria Wordsley,12/08/2020,Legal,"$122,383.74 ",$0.00
+893083,Sheffy Steuhlmeyer,09/30/2020,Engineering,"$110,703.61 ",$0.00
+893084,Laraine Wloch,02/24/2021,Support,"$90,254.87 ","$99,280.36"
+893085,Jayme Arger,01/20/2021,Legal,"$109,237.06 ",$0.00
+893086,Shayne Bennit,10/10/2020,Business Development,"$144,532.18 ",$0.00
+893087,Gwennie Bayfield,03/13/2021,Research and Development,"$137,807.65 ",$0.00
+893088,Nydia Clinch,03/20/2021,Human Resources,"$81,725.19 ","$89,897.71"
+893089,Celle Newarte,05/11/2021,Sales,"$57,087.79 ","$62,796.57"
+893090,Yves Acarson,05/31/2021,Research and Development,"$65,045.84 ","$71,550.42"
+893091,Regen Peachment,03/27/2021,Engineering,"$99,903.34 ","$109,893.67"
+893092,Kaia Whitebread,11/04/2020,Services,"$88,755.27 ","$97,630.80"
+893093,Elwyn MacLaren,03/07/2021,Product Management,"$110,751.97 ",$0.00
+893094,Lexy Gaunter,11/20/2020,Accounting,"$119,911.61 ",$0.00
+893095,Aurilia Faires,06/16/2021,Human Resources,"$93,285.73 ","$102,614.30"
+893096,Ceil Arndell,03/05/2021,Training,"$99,293.21 ","$109,222.53"
+893097,Harwell Fedynski,10/30/2020,Marketing,"$134,792.36 ",$0.00
+893098,Gunner Mainds,04/14/2021,Business Development,"$130,773.47 ",$0.00
+893099,Teddy Mertin,09/03/2021,Services,"$62,599.72 ","$68,859.69"
+893100,Valera Hindenburg,09/25/2020,Accounting,"$99,179.08 ","$109,096.99"
+893101,Truda McIlwrath,11/20/2020,Accounting,"$116,323.22 ",$0.00
+893102,Connor Drewry,07/06/2021,Human Resources,"$104,798.56 ",$0.00
+893103,Illa O'Heaney,07/25/2021,Product Management,"$117,193.91 ",$0.00
+893104,Calley Sifleet,07/12/2021,Support,"$111,663.86 ",$0.00
+893105,Flem Dannell,04/23/2021,Support,"$59,021.03 ","$64,923.13"
+893106,Noel Edinburgh,02/04/2021,Product Management,"$132,533.37 ",$0.00
+893107,Blakeley Eastope,05/09/2021,Support,"$79,173.02 ","$87,090.32"
+893108,Vasili Haskins,07/17/2021,Research and Development,"$100,714.16 ",$0.00
+893109,Griswold Dono,04/13/2021,Training,"$129,078.91 ",$0.00
+893110,Tirrell Lloyd-Williams,01/21/2021,Research and Development,"$62,104.46 ","$68,314.91"
+893111,Gilberte Birtley,03/22/2021,Research and Development,"$117,158.25 ",$0.00
+893112,Joaquin Meddemmen,03/08/2021,Marketing,"$65,263.69 ","$71,790.06"
+893113,Linn Lexa,11/08/2020,Engineering,"$100,633.14 ",$0.00
+893114,Nataline Avraham,05/15/2021,Product Management,"$66,460.58 ","$73,106.64"
+893115,Karlie Di Ruggiero,10/04/2020,Sales,"$87,209.41 ","$95,930.35"
+893116,Perle Bareford,04/25/2021,Accounting,"$72,972.49 ","$80,269.74"
+893117,Letta Dearness,08/12/2021,Training,"$58,555.96 ","$64,411.56"
+893118,Robbi Baroch,07/11/2021,Services,"$111,501.61 ",$0.00
+893119,Layla Percifer,09/13/2020,Legal,"$119,530.42 ",$0.00
+893120,Juli Obeney,04/10/2021,Marketing,"$110,666.91 ",$0.00
+893121,Joyce Arkell,06/26/2021,Research and Development,"$93,316.34 ","$102,647.97"
+893122,Sharl Bamb,04/19/2021,Product Management,"$132,338.35 ",$0.00
+893123,Aldo Lemmer,08/24/2021,Legal,"$55,067.51 ","$60,574.26"
+893124,Ariel Jiruca,05/26/2021,Human Resources,"$87,420.83 ","$96,162.91"
+893125,Analiese Ind,03/20/2021,Product Management,"$97,495.68 ","$107,245.25"
+893126,Gabriella Jakoubec,07/05/2021,Support,"$120,341.05 ",$0.00
+893127,Caron Jendas,04/19/2021,Legal,"$137,328.09 ",$0.00
+893128,Regine Broxholme,11/16/2020,Training,"$60,190.93 ","$66,210.02"
+893129,Urban Ivankin,12/26/2020,Services,"$64,367.62 ","$70,804.38"
+893130,Thomasa Habershaw,12/13/2020,Support,"$68,965.55 ","$75,862.11"
+893131,Drucill Bartoszinski,09/22/2020,Engineering,"$61,432.08 ","$67,575.29"
+893132,Mathilda Garman,03/12/2021,Human Resources,"$145,644.82 ",$0.00
+893133,Jaye Cannan,05/07/2021,Marketing,"$62,317.51 ","$68,549.26"
+893134,Sharon McKaile,06/01/2021,Sales,"$68,999.57 ","$75,899.53"
+893135,Codie Blastock,07/06/2021,Human Resources,"$115,655.95 ",$0.00
+893136,Marion Navarijo,04/28/2021,Product Management,"$101,252.61 ",$0.00
+893137,Alford Spreag,09/20/2020,Legal,"$129,926.76 ",$0.00
+893138,Evita Hamments,01/07/2021,Sales,"$123,200.23 ",$0.00
+893139,Cart Camber,03/29/2021,Product Management,"$94,987.69 ","$104,486.46"
+893140,Harald O'Conor,07/07/2021,Accounting,"$132,846.49 ",$0.00
+893141,Rosabelle Trenbey,12/27/2020,Product Management,"$56,863.69 ","$62,550.06"
+893142,Lorne Orpen,04/17/2021,Sales,"$97,332.82 ","$107,066.10"
+893143,Maria Harrod,11/28/2020,Accounting,"$91,663.23 ","$100,829.55"
+893144,Darcy Valois,08/28/2021,Training,"$82,621.50 ","$90,883.65"
+893145,Salim Knotton,01/18/2021,Human Resources,"$122,428.53 ",$0.00
+893146,Arnoldo Crysell,06/22/2021,Support,"$85,295.89 ","$93,825.48"
+893147,Katherine Bromige,01/09/2021,Research and Development,"$119,716.39 ",$0.00
+893148,Beale Enticott,03/11/2021,Marketing,"$55,852.78 ","$61,438.06"
+893149,Dorella Gindghill,11/15/2020,Services,"$65,464.05 ","$72,010.46"
+893150,Julita Larciere,02/18/2021,Product Management,"$122,743.88 ",$0.00
+893151,Jess Walrond,06/21/2021,Marketing,"$130,888.91 ",$0.00
+893152,Derby Glading,03/07/2021,Engineering,"$88,793.07 ","$97,672.38"
+893153,Loretta Jordan,05/07/2021,Engineering,"$92,749.41 ","$102,024.35"
+893154,Darcie Ianniello,12/24/2020,Training,"$113,999.85 ",$0.00
+893155,Eamon Arbuckel,04/10/2021,Services,"$93,781.64 ","$103,159.80"
+893156,Andrew Labbe,11/13/2020,Engineering,"$129,359.19 ",$0.00
+893157,Samson Woodhead,08/01/2021,Support,"$58,140.80 ","$63,954.88"
+893158,Clyde Currie,10/13/2020,Product Management,"$127,982.11 ",$0.00
+893159,Foss Chesworth,07/20/2021,Product Management,"$70,527.33 ","$77,580.06"
+893160,Arney Stronach,04/26/2021,Human Resources,"$73,121.31 ","$80,433.44"
+893161,Jilly Espinho,06/14/2021,Sales,"$124,955.62 ",$0.00
+893162,Nicoli Alldridge,04/10/2021,Research and Development,"$101,880.18 ",$0.00
+893163,Giselbert Rowntree,10/08/2020,Sales,"$104,608.23 ",$0.00
+893164,Ranice Bradnocke,02/15/2021,Sales,"$63,904.33 ","$70,294.76"
+893165,Hynda Brumham,08/31/2021,Business Development,"$143,197.50 ",$0.00
+893166,Josephina Duding,10/30/2020,Human Resources,"$103,650.85 ",$0.00
+893167,Dalila Southern,10/25/2020,Legal,"$135,081.74 ",$0.00
+893168,Chrisse Hulkes,06/06/2021,Support,"$139,219.27 ",$0.00
+893169,Jamill Overton,10/21/2020,Business Development,"$108,539.87 ",$0.00
+893170,Lisabeth Lesmonde,02/24/2021,Support,"$140,004.67 ",$0.00
+893171,Pierrette Oldam,10/22/2020,Product Management,"$144,262.62 ",$0.00
+893172,Tera Fayers,06/12/2021,Services,"$71,824.57 ","$79,007.03"
+893173,Sayer Fernandes,09/07/2021,Product Management,"$137,701.61 ",$0.00
+893174,Hurlee Tenniswood,11/02/2020,Research and Development,"$61,439.96 ","$67,583.96"
+893175,Ricardo Yurocjhin,06/21/2021,Business Development,"$102,837.18 ",$0.00
+893176,Shirlee Rustan,10/11/2020,Support,"$128,397.33 ",$0.00
+893177,Andy Marple,03/07/2021,Human Resources,"$88,537.83 ","$97,391.61"
+893178,Merissa Jepp,03/27/2021,Product Management,"$97,229.73 ","$106,952.70"
+893179,Denise Huffer,11/27/2020,Sales,"$60,281.32 ","$66,309.45"
+893180,Sharia Toleman,03/27/2021,Sales,"$137,478.15 ",$0.00
+893181,Latisha Found,11/19/2020,Research and Development,"$105,756.84 ",$0.00
+893182,Britt Mellsop,12/04/2020,Services,"$119,095.95 ",$0.00
+893183,Robenia Byrom,11/17/2020,Business Development,"$68,113.09 ","$74,924.40"
+893184,Judie Peizer,10/05/2020,Marketing,"$120,113.18 ",$0.00
+893185,Lisetta Leadbetter,09/24/2020,Human Resources,"$133,832.78 ",$0.00
+893186,Ruben Shiels,02/16/2021,Human Resources,"$66,276.57 ","$72,904.23"
+893187,Sue Tutchings,05/15/2021,Legal,"$117,747.72 ",$0.00
+893188,Emmy Purviss,04/03/2021,Accounting,"$103,010.75 ",$0.00
+893189,Ellyn Frampton,06/18/2021,Business Development,"$65,440.12 ","$71,984.13"
+893190,Bondon Rogier,02/26/2021,Training,"$87,794.21 ","$96,573.63"
+893191,Chiquita Peret,01/04/2021,Product Management,"$55,749.71 ","$61,324.68"
+893192,Hyacinthe Daviddi,04/19/2021,Support,"$115,677.34 ",$0.00
+893193,Vonny Cabral,03/07/2021,Business Development,"$123,124.38 ",$0.00
+893194,Ham Durrell,07/07/2021,Research and Development,"$113,438.58 ",$0.00
+893195,Dana Poxon,04/16/2021,Human Resources,"$145,703.22 ",$0.00
+893196,Barbey Hegley,11/11/2020,Research and Development,"$118,709.55 ",$0.00
+893197,Adelina Margaret,07/16/2021,Human Resources,"$109,157.98 ",$0.00
+893198,Pamela Head,03/31/2021,Training,"$132,526.49 ",$0.00
+893199,Maren Zanotti,08/05/2021,Marketing,"$63,317.15 ","$69,648.87"
+893200,Karon Reubel,07/20/2021,Legal,"$94,429.68 ","$103,872.65"
+893201,Nappy Greenwell,04/27/2021,Support,"$147,073.98 ",$0.00
+893202,Freddie Greaterex,11/07/2020,Accounting,"$135,325.95 ",$0.00
+893203,Verena Rospars,05/22/2021,Marketing,"$60,616.00 ","$66,677.60"
+893204,Stillmann Lavens,04/25/2021,Product Management,"$83,404.82 ","$91,745.30"
+893205,Gran Jukubczak,12/25/2020,Support,"$121,170.86 ",$0.00
+893206,Theodora Klas,05/11/2021,Engineering,"$79,661.52 ","$87,627.67"
+893207,Trever Pendlebury,12/14/2020,Research and Development,"$96,315.53 ","$105,947.08"
+893208,Julietta Wiggington,05/27/2021,Sales,"$95,566.81 ","$105,123.49"
+893209,Kristi Neeve,10/10/2020,Human Resources,"$96,860.70 ","$106,546.77"
+893210,Yorker Clemson,07/03/2021,Marketing,"$149,784.51 ",$0.00
+893211,Gasper Youell,02/28/2021,Engineering,"$96,570.60 ","$106,227.66"
+893212,Vince Whylie,01/16/2021,Training,"$141,727.72 ",$0.00
+893213,Damita Tidswell,11/14/2020,Product Management,"$108,714.58 ",$0.00
+893214,Shermie Smeaton,10/12/2020,Services,"$56,026.56 ","$61,629.22"
+893215,Bettye Pinke,03/29/2021,Marketing,"$85,676.41 ","$94,244.05"
+893216,Judy Dumke,05/17/2021,Legal,"$124,859.65 ",$0.00
+893217,Rozele Ordemann,04/08/2021,Engineering,"$111,194.14 ",$0.00
+893218,Deloria Senter,07/29/2021,Research and Development,"$95,310.65 ","$104,841.72"
+893219,Marten MacDuff,03/25/2021,Legal,"$102,698.76 ",$0.00
+893220,Frazier Peete,10/13/2020,Accounting,"$138,587.69 ",$0.00
+893221,Marmaduke Reed,10/25/2020,Product Management,"$131,092.31 ",$0.00
+893222,Klarika Meron,08/31/2021,Product Management,"$102,606.28 ",$0.00
+893223,Aurora Playhill,12/14/2020,Training,"$123,579.21 ",$0.00
+893224,Martguerita Burkman,08/31/2021,Business Development,"$142,884.00 ",$0.00
+893225,Franny Woolland,07/11/2021,Human Resources,"$85,294.89 ","$93,824.38"
+893226,Filmer Silber,04/02/2021,Product Management,"$86,936.74 ","$95,630.41"
+893227,Cally Ruben,10/19/2020,Training,"$105,513.05 ",$0.00
+893228,Dotti Djokic,01/31/2021,Marketing,"$88,197.60 ","$97,017.36"
+893229,Toinette Mc Ilwrick,03/30/2021,Training,"$127,174.08 ",$0.00
+893230,Dale Berard,08/05/2021,Training,"$118,510.25 ",$0.00
+893231,Lannie Keelin,05/18/2021,Research and Development,"$63,051.51 ","$69,356.66"
+893232,Maddy Mc Andrew,06/07/2021,Support,"$55,030.27 ","$60,533.30"
+893233,Sutherlan Risley,01/14/2021,Sales,"$56,866.32 ","$62,552.95"
+893234,Suzanne Runciman,04/17/2021,Marketing,"$95,762.92 ","$105,339.21"
+893235,Bobbye Waterfall,07/30/2021,Legal,"$132,567.28 ",$0.00
+893236,Glennie Sweetzer,10/20/2020,Research and Development,"$91,979.91 ","$101,177.90"
+893237,Christian Calam,04/11/2021,Marketing,"$83,813.20 ","$92,194.52"
+893238,Jere Stilwell,11/13/2020,Human Resources,"$141,899.64 ",$0.00
+893239,Pattie Hynd,04/29/2021,Services,"$83,060.79 ","$91,366.87"
+893240,Amalia Dammarell,05/16/2021,Accounting,"$111,837.35 ",$0.00
+893241,Doris Meany,02/06/2021,Support,"$130,036.54 ",$0.00
+893242,Ilyssa Jorgensen,03/21/2021,Product Management,"$108,649.06 ",$0.00
+893243,Harlene Roseby,05/14/2021,Engineering,"$126,672.37 ",$0.00
+893244,Happy Pedroni,09/22/2020,Legal,"$135,569.76 ",$0.00
+893245,Dahlia Elijah,03/18/2021,Engineering,"$132,394.20 ",$0.00
+893246,Boy Filipowicz,05/06/2021,Accounting,"$80,311.29 ","$88,342.42"
+893247,Rem Rogerot,07/03/2021,Human Resources,"$122,462.87 ",$0.00
+893248,Lorry Blankett,05/12/2021,Services,"$77,624.35 ","$85,386.79"
+893249,Lucita Cranage,04/20/2021,Engineering,"$130,248.10 ",$0.00
+893250,Chan Kilminster,06/24/2021,Legal,"$100,707.21 ",$0.00
+893251,Georgy Guilloud,10/29/2020,Marketing,"$81,480.97 ","$89,629.07"
+893252,Isiahi Gather,12/19/2020,Business Development,"$145,265.03 ",$0.00
+893253,Aveline Swannie,10/04/2020,Support,"$81,887.56 ","$90,076.32"
+893254,Kristan Hartropp,07/01/2021,Sales,"$62,097.90 ","$68,307.69"
+893255,Stavro Mordon,08/15/2021,Services,"$82,398.80 ","$90,638.68"
+893256,Kendre Seebert,06/14/2021,Accounting,"$86,948.36 ","$95,643.20"
+893257,Estele Doumenc,03/01/2021,Human Resources,"$125,321.80 ",$0.00
+893258,Gabrielle Binne,04/27/2021,Research and Development,"$120,035.91 ",$0.00
+893259,Archibaldo Dunbar,05/13/2021,Accounting,"$145,372.14 ",$0.00
+893260,Vinny Murtagh,07/22/2021,Services,"$110,755.10 ",$0.00
+893261,Joelly Derisley,02/26/2021,Services,"$108,214.01 ",$0.00
+893262,Charley Menier,09/05/2021,Product Management,"$78,024.89 ","$85,827.38"
+893263,Marya Sheering,10/31/2020,Human Resources,"$105,037.52 ",$0.00
+893264,Agatha Emerson,11/19/2020,Research and Development,"$92,170.79 ","$101,387.87"
+893265,Wallache Whittlesey,12/13/2020,Research and Development,"$128,598.24 ",$0.00
+893266,Kinnie Barbour,11/25/2020,Marketing,"$97,272.13 ","$106,999.34"
+893267,Hanan Bru,10/05/2020,Research and Development,"$81,453.82 ","$89,599.20"
+893268,Jacobo Jenks,04/10/2021,Human Resources,"$148,245.01 ",$0.00
+893269,Rudiger Bruggen,01/18/2021,Research and Development,"$69,464.72 ","$76,411.19"
+893270,Hubie Gaenor,06/05/2021,Support,"$90,863.83 ","$99,950.21"
+893271,Goldi Littlewood,03/30/2021,Support,"$124,660.79 ",$0.00
+893272,Izaak Jayume,11/29/2020,Engineering,"$113,546.13 ",$0.00
+893273,Brandise O'Fallone,12/17/2020,Product Management,"$114,320.45 ",$0.00
+893274,Berton Dericot,07/12/2021,Business Development,"$101,132.02 ",$0.00
+893275,Sal Giottoi,06/15/2021,Legal,"$146,104.66 ",$0.00
+893276,Dalila Zannetti,07/09/2021,Product Management,"$72,373.91 ","$79,611.30"
+893277,Miguela Knagges,06/18/2021,Sales,"$127,247.58 ",$0.00
+893278,Beatrix Cainey,01/23/2021,Sales,"$119,178.18 ",$0.00
+893279,Lianna Mallord,04/15/2021,Accounting,"$59,912.53 ","$65,903.78"
+893280,Lucais Castelin,11/04/2020,Research and Development,"$101,547.33 ",$0.00
+893281,Marinna Seago,11/20/2020,Services,"$88,689.46 ","$97,558.41"
+893282,Harlene Tolossi,10/05/2020,Accounting,"$114,935.83 ",$0.00
+893283,Prentiss Smaling,06/03/2021,Research and Development,"$97,361.25 ","$107,097.38"
+893284,Raddie Boothby,08/03/2021,Human Resources,"$76,490.48 ","$84,139.53"
+893285,Olivette Orrocks,03/12/2021,Support,"$101,874.57 ",$0.00
+893286,Lainey Crimp,07/20/2021,Services,"$102,728.04 ",$0.00
+893287,Lilas Garret,05/28/2021,Sales,"$72,201.50 ","$79,421.65"
+893288,Xenia Meran,08/16/2021,Accounting,"$120,555.31 ",$0.00
+893289,Tana Brandoni,12/21/2020,Engineering,"$58,973.48 ","$64,870.83"
+893290,Augie Mumm,04/10/2021,Training,"$108,045.36 ",$0.00
+893291,Rosamond Gilligan,12/11/2020,Accounting,"$78,922.47 ","$86,814.72"
+893292,Alidia Shufflebotham,03/14/2021,Accounting,"$132,427.61 ",$0.00
+893293,Joey Dunderdale,11/07/2020,Product Management,"$56,540.82 ","$62,194.90"
+893294,Waylon Miranda,10/07/2020,Business Development,"$87,487.52 ","$96,236.27"
+893295,Marybeth Dunbobin,12/18/2020,Support,"$90,731.87 ","$99,805.06"
+893296,Katey Tincey,11/10/2020,Research and Development,"$118,651.09 ",$0.00
+893297,Rosaleen Ajean,12/31/2020,Engineering,"$133,497.83 ",$0.00
+893298,Ganny Gavrieli,09/08/2020,Accounting,"$56,313.52 ","$61,944.87"
+893299,Brewer Gardner,05/30/2021,Marketing,"$144,246.80 ",$0.00
+893300,Karol Ratie,02/27/2021,Research and Development,"$110,045.77 ",$0.00
+893301,Lois Clausius,10/27/2020,Sales,"$55,317.78 ","$60,849.56"
+893302,Burl Warfield,09/29/2020,Training,"$86,418.00 ","$95,059.80"
+893303,Ernst Goade,02/24/2021,Business Development,"$81,844.12 ","$90,028.53"
+893304,Bruis Creak,11/08/2020,Product Management,"$140,741.64 ",$0.00
+893305,De Dudden,07/14/2021,Engineering,"$57,009.41 ","$62,710.35"
+893306,Ottilie Strawbridge,10/18/2020,Accounting,"$96,731.13 ","$106,404.24"
+893307,Newton Clee,11/03/2020,Engineering,"$93,731.14 ","$103,104.25"
+893308,Allison Ilive,10/08/2020,Business Development,"$59,851.25 ","$65,836.38"
+893309,Kincaid Isakovitch,11/28/2020,Human Resources,"$70,471.05 ","$77,518.16"
+893310,Mycah Deeks,09/16/2020,Services,"$79,609.36 ","$87,570.30"
+893311,Job Tomeo,02/13/2021,Services,"$142,505.54 ",$0.00
+893312,Gladys Pauletto,10/23/2020,Business Development,"$127,128.12 ",$0.00
